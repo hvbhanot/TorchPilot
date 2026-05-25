@@ -36,8 +36,8 @@ dependencies = [
 dev = ["pytest"]
 
 [project.urls]
-Homepage = "https://github.com/hvbhanot17/TorchPilot"
-Issues = "https://github.com/hvbhanot17/TorchPilot/issues"
+Homepage = "https://github.com/hvbhanot/TorchPilot"
+Issues = "https://github.com/hvbhanot/TorchPilot/issues"
 
 [tool.setuptools.packages.find]
 include = ["torchpilot*"]
