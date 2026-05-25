@@ -427,7 +427,7 @@ TorchPilot/
 ## Development
 
 ```bash
-git clone <repo>
+git clone https://github.com/hvbhanot/TorchPilot
 cd TorchPilot
 pip install -e ".[dev]"     # editable install + pytest
 ```
