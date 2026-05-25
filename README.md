@@ -37,7 +37,7 @@ report = TorchPilot("data.csv", target="label", task="classification").fit(n_rou
 ### From local checkout (development)
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/hvbhanot/TorchPilot.git
 cd TorchPilot
 pip install -e .
 ```
