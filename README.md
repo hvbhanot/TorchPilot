@@ -48,7 +48,7 @@ hacking on the library.
 ### From a GitHub clone (regular user)
 
 ```bash
-pip install git+https://github.com/<your-user>/TorchPilot.git
+pip install git+https://github.com/hvbhanot/TorchPilot.git
 ```
 
 ### Ollama Cloud key
